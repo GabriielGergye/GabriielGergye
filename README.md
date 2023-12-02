@@ -20,9 +20,6 @@ Saudações! 👋 Eu sou o Gabriel Gergye, um apaixonado por programação e alu
 Dê uma olhada nas minhas estatísticas de commits no GitHub! 👇
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabriielGergye&show_icons=true&theme=radical)
-
-📅 **Últimos Commits**
-<br>
 [![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=GabriielGergye&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&theme=radical&custom_title=Commits%20Recentes)](https://github.com/GabriielGergye)
 
 
