@@ -1,10 +1,9 @@
-## Sobre Mim
+## About Me
+Greetings! 👋 I'm Gabriel Gergye, a passionate programmer and a student in Analysis and Systems Development. My technical toolkit includes expertise in Java and JavaScript. Currently, I'm venturing into the realms of Python and C#, delving deep into the fascinating universe of ASP.NET. Join me on this journey of exploration and innovation! 🌟
 
-Saudações! 👋 Eu sou o Gabriel Gergye, um apaixonado por programação e aluno de Análise e Desenvolvimento de Sistemas. Minha bagagem técnica inclui expertise em Java e JavaScript. Atualmente, estou desbravando os caminhos do Python e C#, e me aprofundando no fascinante universo do ASP.NET. Junte-se a mim nessa jornada de descobertas e inovação! 🌟
+🛠️ Skills: Java, JavaScript, Python, C#
 
-🛠️ **Habilidades**: Java, JavaScript, Python, C#
-
-🔍 **Explorando Atualmente**: ASP.NET
+🔍 Currently Exploring: ASP.NET
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Gergye-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,9 +14,8 @@ Saudações! 👋 Eu sou o Gabriel Gergye, um apaixonado por programação e alu
 </div>
 <hr>
 
-## Estatísticas GitHub 📊
-
-Dê uma olhada nas minhas estatísticas de commits no GitHub! 👇
+## GitHub Statistics 📊
+Take a look at my GitHub commit statistics! 👇
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabriielGergye&show_icons=true&theme=radical)
 [![Histórico de Commits](https://github-readme-stats.vercel.app/api?username=GabriielGergye&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&theme=radical&custom_title=Commits%20Recentes)](https://github.com/GabriielGergye)
