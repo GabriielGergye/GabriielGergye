@@ -7,8 +7,19 @@ Welcome, Gabriel! How can I assist you today?
 5. Exit
 
 Enter the number of your choice: _
+
+-----------------------------------------------------------------
+**> User Input: 1**
+
+Loading projects... Please wait.
+<p style="color: #fcfcfc; background-color: #2a2a2a; padding: 10px;">
+  This text is inspired by the dark, industrial aesthetic of Portal.
+</p>
+<p style="color: #ffa07a; background-color: #2a2a2a; padding: 10px;">
+  Here, the text color is reminiscent of the orange portal.
+</p>
+<p style="color: #00bfff; background-color: #2a2a2a; padding: 10px;">
+  And this text color pays homage to the blue portal.
+</p>
   
-<!---
-GabriielGergye/GabriielGergye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
